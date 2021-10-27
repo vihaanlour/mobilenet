@@ -1,0 +1,74 @@
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px grey;
+}
+.headingDiv {
+  float: none;
+  padding: 10px;
+  background: white;
+  border-radius: 20px;
+  color: black;
+  box-shadow: 5px 5px 5px grey;
+}
+.headingDiv2 {
+  font-size: 18px;
+}
+.resultPTag {
+  box-shadow: 5px 5px 5px grey;
+  font-size: 20px;
+}
+.resultPTag span {
+  white-space: pre-line;
+}
+.copy_right_footer {
+  position: fixed;
+  background-color: greenyellow;
+  color: blue;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+body {
+  font-family: "Special Elite", cursive;
+  background-size: cover;
+  background-position: center;
+}
+ol h5 {
+  background: white;
+  padding: 13px;
+  border-radius: 20px;
+}
+span {
+  color: red;
+  font-size: 16px;
+}
+li img {
+  border-radius: 20px;
+}
+.bob {
+  background: #949494;
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 18px grey;
+}
+b {
+  color: purple;
+}
+.bob3 {
+  text-align: center;
+  color: white;
+}
+.result {
+  box-shadow: 5px 5px 18px grey;
+  letter-spacing: 2px;
+  background: #f2bac9;
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px solid grey;
+}
